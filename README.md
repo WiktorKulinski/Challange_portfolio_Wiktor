@@ -3,3 +3,7 @@ This project is undertaken under the supervision of a DareIT Mentor. The main ob
 
 # Motivation
 My primary motivation for starting this course is to create a project in a step-by-step manner. It is a great opportunity to learn new skills and gain experience working on such a project.
+
+# Subtask 4: Purple Quizz
+
+8/14
