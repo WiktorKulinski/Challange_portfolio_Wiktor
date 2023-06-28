@@ -1,0 +1,23 @@
+Funkcje:
+Logowanie
+Zmiana Języka
+Wylogowanie
+Wyświetlanie listy graczy
+Dodawanie gracza
+Lista ostatnich aktywności
+Kontakt z Dev
+Dodawanie meczy Graficzny raport z meczu
+Przesyłanie raportu z meczu
+Zmiana połowy meczu
+Rozpoczęcie Meczu
+Zatrzymanie Meczu
+Cofnięcie wprowadzonej akcji do meczu
+Sporządzenie raportu z meczu
+Edycja Meczu
+Edycja Raportu
+Pobieranie pliku CSV z tabeli graczy
+Drukowanie tabeli graczy
+Wyświetlanie/Ukrywanie kolumn w tabeli graczy
+Wyświetlanie niedokończonych(niezapisanych) meczy
+
+
