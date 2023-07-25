@@ -11,7 +11,7 @@ from pages.dashboard import Dashboard
 
 
 
-class TestLoginSystem(unittest.TestCase):
+class TestLoginWithInvalidPassword(unittest.TestCase):
 
     @classmethod
     def setUp(self):
